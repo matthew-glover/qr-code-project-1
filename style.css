@@ -1,0 +1,36 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: Outfit;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+img{
+    border-radius: 20px;
+    width: 375px;
+}
+
+.box{
+    width:375px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 80px;
+    border-radius: 20px;
+}
+
+h1{
+    font-weight: 700; 
+}
+
+h2{
+    font-weight: 700; 
+}
+
+p{
+    color:hsl(220, 15%, 55%);
+}
+
+.attribution {color: hsl(220, 15%, 55%); font-size: 11px;}
+.attribution a { color: hsl(220, 15%, 55%); }
